@@ -1,7 +1,8 @@
 # SharedPreferencesApp01
 SharedPreferencesApp01
 
-In this app i use **Shared Preferences** to save (and retrieve) data localy at mobile.
+In this app i use **Shared Preferences** to save (and retrieve) data locally (at mobile device).
 
-![image](https://github.com/pmoschos/SharedPreferencesApp01/assets/133533759/1db42d9c-a595-4858-ac30-9a2fd673d7a4)
+![image](https://github.com/pmoschos/SharedPreferencesApp01/assets/133533759/8bd4eb04-1bbc-47f5-9c0e-8432848020a4)
+
 
